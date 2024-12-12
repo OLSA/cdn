@@ -1,2 +1,2 @@
 # cdn
-Redmine images cdn
+Redmine images cdn.

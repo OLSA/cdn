@@ -1,0 +1,2 @@
+# cdn
+Redmine images cdn
